@@ -1,7 +1,7 @@
 Gatcoin JS Challenge
 ===
 
-Boiletplate: [React-Redux-Saga Boilerplate](https://redux-saga.react-boilerplate.com/)
+Boiletplate: [React-Redux-Saga Boilerplate](https://github.com/gilbarbara/react-redux-saga-boilerplate/)
 
 ### Setup and run
 - npm install
