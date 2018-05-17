@@ -1,0 +1,31 @@
+.app__private {
+  &__header {
+    margin-bottom: $grid-gutter-width;
+    text-align: center;
+  }
+
+  &__intro {
+    text-align: center;
+
+    h5 {
+      line-height: 1;
+      margin: 0;
+    }
+  }
+
+  &__content {
+    padding-top: $grid-gutter-width;
+  }
+
+  .app {
+
+    &__pagetitle {
+      background-color: $ui-color;
+      color: $inverted-font-color;
+      padding: $grid-gutter-width/2;
+      font-size: 2rem;
+      font-weight: normal;
+      box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.5);
+    }
+  }
+}
