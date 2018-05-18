@@ -16,8 +16,10 @@ Boiletplate: [React-Redux-Saga Boilerplate](https://redux-saga.react-boilerplate
 
 ### Are there any improvements you could make to your submission?
 - I probably set the title in store instead of using a callback on did mount
+- use styled components
 
 ### What would you do differently if you were allocated more time?
 - clean up the unused from the boiletplate
 - write tests
 - it is almost fully responsive, except the header nav on mobile screen, would have fix that as well
+- use styled components 
