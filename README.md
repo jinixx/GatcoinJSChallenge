@@ -1,7 +1,7 @@
 Gatcoin JS Challenge
 ===
 
-Boiletplate: [React-Redux-Saga Boilerplate](https://github.com/gilbarbara/react-redux-saga-boilerplate/)
+Boiletplate: [React-Redux-Saga Boilerplate](https://redux-saga.react-boilerplate.com/)
 
 ### Setup and run
 - npm install
@@ -15,9 +15,9 @@ Boiletplate: [React-Redux-Saga Boilerplate](https://github.com/gilbarbara/react-
 - in this case however, I used a boiletplate with sass, redux, sagas to showcase my capabilities
 
 ### Are there any improvements you could make to your submission?
-- I probably set the title in store instead of using a callback on init
+- I probably set the title in store instead of using a callback on did mount
 
 ### What would you do differently if you were allocated more time?
-- clean up useless files from the boiletplate
+- clean up the unused from the boiletplate
 - write tests
 - it is almost fully responsive, except the header nav on mobile screen, would have fix that as well
