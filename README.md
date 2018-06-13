@@ -12,7 +12,7 @@ Boiletplate: [React-Redux-Saga Boilerplate](https://redux-saga.react-boilerplate
 
 ### How did you decide which technologies to use as part of your solution?
 - in a real project, I would have choose base on ease of use, reliability, performance and filesize
-- in this case however, I used a boiletplate with sass, redux, sagas to showcase my capabilities
+- in this case, I used a boiletplate with sass, redux, sagas
 
 ### Are there any improvements you could make to your submission?
 - I probably set the title in store instead of using a callback on did mount
